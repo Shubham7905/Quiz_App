@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizyApp</string>
+    <string name="quiz_app"><u>Quiz App</u></string>
+    <string name="welcome_desc">A quiz app that \nallows user to improve \ntheir mathematical \ncalculations</string>
+</resources>
